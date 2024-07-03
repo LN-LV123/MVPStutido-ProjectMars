@@ -72,12 +72,7 @@ namespace Mars_Luiz.Tests
             profilePageObj.Deletelanguange(driver);
 
         }
-        [TearDown]
-        public void CloseLanguageTest()
-        {
-
-        }
-
+       
 
         [Test]
 
@@ -154,13 +149,14 @@ namespace Mars_Luiz.Tests
             ProfilePage homePageObj = new ProfilePage();
             homePageObj.GoToProfilePage(driver);
             //Delete Skills
-            //skillsPageObj.DeleteSkills(driver)
+            SkillsPage skillsPageObj = new SkillsPage();
+            skillsPageObj.DeleteSkills(driver);
 
         }
         [TearDown]
-        public void CloseSkillsTest()
+        public void CloseTests()
         {
-
+            driver.Quit();
         }
 
         

@@ -5220,11 +5220,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Mars-Luiz.csproj",
+      "projectUniqueName": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Mars-Luiz.csproj",
       "projectName": "Mars-Luiz",
-      "projectPath": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Mars-Luiz.csproj",
+      "projectPath": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Mars-Luiz.csproj",
       "packagesPath": "C:\\Users\\Nando\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\obj\\",
+      "outputPath": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nando\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -23,8 +23,9 @@ Scenario: Add Skills with Special Characters and long lengh and set skill level
 Scenario: Edit Skills and set skill level
 	Given I logged into the portal successfull	
 	When  I navigate to Skills page 
-	When  I edit the skills and skills level
+	When  I edit the skills and skill level
 	Then  The skill and skills level should be edited successfull
+
 
 
 

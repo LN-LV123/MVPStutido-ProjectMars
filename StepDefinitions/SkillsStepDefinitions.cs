@@ -15,6 +15,7 @@ namespace Mars_Luiz.StepDefinitions
     [Binding]
     public class SkillsStepDefinitions : CommonDriver
     {
+        //Add Skills
         [Given(@"I log into the Portal successfull")]
 
         public void GivenILoggedIntoThePortalSuccessfull()
@@ -51,11 +52,13 @@ namespace Mars_Luiz.StepDefinitions
             string addedSkillLevel = skillsPageObj.GetSkillsLevel(driver);
             Assert.That(addedSkill == "Azure", " Skill has not benn successfull added");
             Assert.That(addedSkillLevel == "Expert", "Skill Level has not successful added");
-
+            
         }
 
-        [When(@"I edit the skills and skills level")]
-        public void WhenIEditTheSkillsAndSkillsLevel()
+        //Edit Skills
+
+        [When(@"I edit the skills and skill level")]
+        public void WhenIEditTheSkillsAndSkillLevel()
         {
             SkillsPage skillsPageObj = new SkillsPage();
             skillsPageObj.EditSkills(driver);
@@ -66,11 +69,14 @@ namespace Mars_Luiz.StepDefinitions
         {
             SkillsPage skillsPageObj = new SkillsPage();
             string editedSkill = skillsPageObj.GetEditedSkill(driver);
-            string editedSkillLevell = skillsPageObj.GetEditedSkillLevel(driver);
+            string editedSkillLevel = skillsPageObj.GetEditedSkillLevel(driver);
             Assert.That(editedSkill == "Windows2019", "Skill has not been successfull edited");
-            Assert.That(editedSkillLevell == "Intermediate", "Skill has not been successfull changed");
+            Assert.That(editedSkillLevel == "Intermediate", "Skill has not been successfull changed");
         }
 
+
+       //Delete Skill
+               
         [When(@"I delete the skills")]
         public void WhenIDeleteTheSkills()
         {
@@ -84,19 +90,36 @@ namespace Mars_Luiz.StepDefinitions
             SkillsPage skillsPageObj = new SkillsPage();
             var elements = driver.FindElements(By.XPath("/html/body/div[1]/div"));
             ClassicAssert.True(elements.Count > 0);
+            
         }
+
+        //Add Special and long Characters
 
         [When(@"I add Special Characters and long leangh skills")]
         public void WhenIAddSpecialCharactersAndLongLeanghSkills()
         {
-            throw new PendingStepException();
+            SkillsPage skillsPageObj = new SkillsPage();
+            skillsPageObj.AddSpecialCharactSkills(driver);
+
         }
 
         [Then(@"Should not be added successfull")]
         public void ThenShouldNotBeAddedSuccessfull()
         {
-
+            SkillsPage skillsPageObj = new SkillsPage();
+            string specialCharcSkill = skillsPageObj.SpecialCharcSkills(driver);
+            if (specialCharcSkill.Contains("%%%^^^&&**(())!!@g.com.au###########@@@@@@@@@@@@@@@@@@@%%%^^^&&**(())!!@g.com.au###########@@@@@@@@@@@@@@@@@@@"))
+            {
+                Assert.Pass("This type of skill should have not been added");
+            }
+            else
+            {
+                Assert.Fail("Skill successfull not added");
+            }
+               
         }
+
+        //Add same Skills
 
 
         [When(@"I add same skills")]

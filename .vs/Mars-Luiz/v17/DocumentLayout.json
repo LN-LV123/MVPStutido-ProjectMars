@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\",
+  "WorkspaceRootPath": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\pages\\skillspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|solutionrelative:pages\\skillspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\stepdefinitions\\skillsstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\mvpstutido-projectmars\\stepdefinitions\\skillsstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|solutionrelative:stepdefinitions\\skillsstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\pages\\profilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|solutionrelative:pages\\profilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\specflow\\skills.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|solutionrelative:specflow\\skills.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\stepdefinitions\\languagestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\mvpstutido-projectmars\\stepdefinitions\\languagestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|solutionrelative:stepdefinitions\\languagestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\tests\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|solutionrelative:tests\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\utilities\\commondriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|solutionrelative:utilities\\commondriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\pages\\languagepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\mvpstutido-projectmars\\pages\\languagepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|solutionrelative:pages\\languagepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\specflow\\language.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\mvpstutido-projectmars\\specflow\\skills.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|solutionrelative:specflow\\skills.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\mvpstutido-projectmars\\pages\\skillspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|solutionrelative:pages\\skillspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\mvpstutido-projectmars\\pages\\profilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|solutionrelative:pages\\profilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\mvpstutido-projectmars\\tests\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|solutionrelative:tests\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\mvpstutido-projectmars\\utilities\\commondriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|solutionrelative:utilities\\commondriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\mvpstutido-projectmars\\specflow\\language.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|solutionrelative:specflow\\language.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\pages\\joininpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\mvpstutido-projectmars\\pages\\joininpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|solutionrelative:pages\\joininpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\pages\\signinpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\mvpstutido-projectmars\\pages\\signinpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|solutionrelative:pages\\signinpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\mars-luiz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|c:\\users\\nando\\source\\tester2024\\testerstudy2024\\tester2024\\mars-luiz\\mvpstutido-projectmars\\mars-luiz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{93962DFE-9279-4E9F-90FB-3462AF1A4EA7}|Mars-Luiz.csproj|solutionrelative:mars-luiz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -69,89 +69,102 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "LanguageStepDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\StepDefinitions\\LanguageStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\StepDefinitions\\LanguageStepDefinitions.cs",
               "RelativeDocumentMoniker": "StepDefinitions\\LanguageStepDefinitions.cs",
-              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\StepDefinitions\\LanguageStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\StepDefinitions\\LanguageStepDefinitions.cs",
               "RelativeToolTip": "StepDefinitions\\LanguageStepDefinitions.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAcwBMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T12:29:32.484Z"
+              "WhenOpened": "2024-06-20T12:29:32.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Skills.feature",
-              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Specflow\\Skills.feature",
+              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Specflow\\Skills.feature",
               "RelativeDocumentMoniker": "Specflow\\Skills.feature",
-              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Specflow\\Skills.feature",
+              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Specflow\\Skills.feature",
               "RelativeToolTip": "Specflow\\Skills.feature",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAhAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-06-20T03:03:37.786Z"
+              "WhenOpened": "2024-06-20T03:03:37.786Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Test.cs",
-              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Tests\\Test.cs",
+              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Tests\\Test.cs",
               "RelativeDocumentMoniker": "Tests\\Test.cs",
-              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Tests\\Test.cs",
+              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Tests\\Test.cs",
               "RelativeToolTip": "Tests\\Test.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAiwHEAAAAJAAAA",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAiwIkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T03:51:05.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "SkillsPage.cs",
-              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Pages\\SkillsPage.cs",
+              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Pages\\SkillsPage.cs",
               "RelativeDocumentMoniker": "Pages\\SkillsPage.cs",
-              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Pages\\SkillsPage.cs",
+              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Pages\\SkillsPage.cs",
               "RelativeToolTip": "Pages\\SkillsPage.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAiwFUAAAAMAAAA",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAIwFkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T04:44:49.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SkillsStepDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\StepDefinitions\\SkillsStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\StepDefinitions\\SkillsStepDefinitions.cs",
               "RelativeDocumentMoniker": "StepDefinitions\\SkillsStepDefinitions.cs",
-              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\StepDefinitions\\SkillsStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\StepDefinitions\\SkillsStepDefinitions.cs",
               "RelativeToolTip": "StepDefinitions\\SkillsStepDefinitions.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAADwv3AAAAA8AAAA",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAkwHkAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T05:40:05.734Z"
+              "WhenOpened": "2024-06-21T05:40:05.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfilePage.cs",
+              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Pages\\ProfilePage.cs",
+              "RelativeDocumentMoniker": "Pages\\ProfilePage.cs",
+              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Pages\\ProfilePage.cs",
+              "RelativeToolTip": "Pages\\ProfilePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:30:58.693Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProfilePage.cs",
-              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Pages\\ProfilePage.cs",
-              "RelativeDocumentMoniker": "Pages\\ProfilePage.cs",
-              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Pages\\ProfilePage.cs",
-              "RelativeToolTip": "Pages\\ProfilePage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Title": "LanguagePage.cs",
+              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Pages\\LanguagePage.cs",
+              "RelativeDocumentMoniker": "Pages\\LanguagePage.cs",
+              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Pages\\LanguagePage.cs",
+              "RelativeToolTip": "Pages\\LanguagePage.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAUwC0AAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T02:30:58.693Z"
+              "WhenOpened": "2024-05-30T02:38:05.231Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CommonDriver.cs",
-              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Utilities\\CommonDriver.cs",
+              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Utilities\\CommonDriver.cs",
               "RelativeDocumentMoniker": "Utilities\\CommonDriver.cs",
-              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Utilities\\CommonDriver.cs",
+              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Utilities\\CommonDriver.cs",
               "RelativeToolTip": "Utilities\\CommonDriver.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -159,23 +172,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LanguagePage.cs",
-              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Pages\\LanguagePage.cs",
-              "RelativeDocumentMoniker": "Pages\\LanguagePage.cs",
-              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Pages\\LanguagePage.cs",
-              "RelativeToolTip": "Pages\\LanguagePage.cs",
-              "ViewState": "AQIAAH8AAAAAAAAAAAAUwJEAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T02:38:05.231Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Language.feature",
-              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Specflow\\Language.feature",
+              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Specflow\\Language.feature",
               "RelativeDocumentMoniker": "Specflow\\Language.feature",
-              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Specflow\\Language.feature",
+              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Specflow\\Language.feature",
               "RelativeToolTip": "Specflow\\Language.feature",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA8AAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
@@ -185,9 +186,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "JoinInPage.cs",
-              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Pages\\JoinInPage.cs",
+              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Pages\\JoinInPage.cs",
               "RelativeDocumentMoniker": "Pages\\JoinInPage.cs",
-              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Pages\\JoinInPage.cs",
+              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Pages\\JoinInPage.cs",
               "RelativeToolTip": "Pages\\JoinInPage.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAUwEMAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -197,9 +198,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "SignInPage.cs",
-              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Pages\\SignInPage.cs",
+              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Pages\\SignInPage.cs",
               "RelativeDocumentMoniker": "Pages\\SignInPage.cs",
-              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Pages\\SignInPage.cs",
+              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Pages\\SignInPage.cs",
               "RelativeToolTip": "Pages\\SignInPage.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -209,9 +210,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Mars-Luiz.csproj",
-              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Mars-Luiz.csproj",
+              "DocumentMoniker": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Mars-Luiz.csproj",
               "RelativeDocumentMoniker": "Mars-Luiz.csproj",
-              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Mars-Luiz.csproj",
+              "ToolTip": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Mars-Luiz.csproj",
               "RelativeToolTip": "Mars-Luiz.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

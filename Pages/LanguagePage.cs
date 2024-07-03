@@ -1,4 +1,5 @@
 ﻿using Mars_Luiz.Utilities;
+using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.DevTools.V123.CacheStorage;
 using OpenQA.Selenium.Internal;
@@ -92,8 +93,24 @@ namespace Mars_Luiz.Pages
 
             driver.FindElement(By.XPath("//*[@id=\'account-profile-section\']/div/section[2]/div/div/div/div[3]/form/div[2]/div/div[2]/div/div/div[3]/input[1]")).Click();
 
+
             
 
+        }
+
+               
+        public string GetLanguage(IWebDriver driver)
+        {
+            Thread.Sleep(2000);
+            IWebElement addedLanguage = driver.FindElement(By.XPath("//*[@id=\"account-profile-section\"]/div/section[2]/div/div/div/div[3]/form/div[2]/div/div[2]/div/table/tbody/tr/td[1]"));
+            return addedLanguage.Text;           
+            
+        }
+        public string GetChooseLevel(IWebDriver driver)
+        {
+            Thread.Sleep(2000);
+            IWebElement choseLevel = driver.FindElement(By.XPath("//*[@id=\'account-profile-section\']/div/section[2]/div/div/div/div[3]/form/div[2]/div/div[2]/div/table/tbody/tr/td[2]"));
+            return choseLevel.Text;
         }
 
         //Edit Language
@@ -120,7 +137,15 @@ namespace Mars_Luiz.Pages
             selectlevelBox.SendKeys("Basic");
             IWebElement updateButton = driver.FindElement(By.XPath("//*[@id=\'account-profile-section\']/div/section[2]/div/div/div/div[3]/form/div[2]/div/div[2]/div/table/tbody/tr/td/div/span/input[1]"));
             updateButton.Click();
-            Wait.WaitToBeClickable(driver, "xPath", "//*[@id='account-profile-section']/div/section[2]/div/div/div/div[3]/form/div[2]/div/div[2]/div/table/tbody/tr/td/div/span/input[1]", 2);
+            //Wait.WaitToBeClickable(driver, "xPath", "//*[@id='account-profile-section']/div/section[2]/div/div/div/div[3]/form/div[2]/div/div[2]/div/table/tbody/tr/td/div/span/input[1]", 2);
+
+        }
+        public string GetEditedLanguage(IWebDriver driver)
+        {
+            Thread.Sleep(2000);
+            IWebElement editedLanguage = driver.FindElement(By.XPath("//*[@id=\'account-profile-section\']/div/section[2]/div/div/div/div[3]/form/div[2]/div/div[2]/div/table/tbody[1]/tr/td[1]"));
+            return editedLanguage.Text;
+
 
         }
 
@@ -139,19 +164,8 @@ namespace Mars_Luiz.Pages
             deleteIcon.Click();
 
         }
-        public string GetLanguage(IWebDriver driver)
-        {
-            IWebElement addedLanguage = driver.FindElement(By.XPath("//*[@id=\"account-profile-section\"]/div/section[2]/div/div/div/div[3]/form/div[2]/div/div[2]/div/table/tbody/tr/td[1]"));
-            return addedLanguage.Text;
-            Wait.WaitToBeVisable(driver, "xPath", "//*[@id=\'account-profile-section\']/div/section[2]/div/div/div/div[3]/form/div[2]/div/div[2]/div/table/tbody/tr/td[1]", 2);
-        }
-
-        public string GetEditedLanguage(IWebDriver driver)
-        {
-            IWebElement editedLanguage = driver.FindElement(By.XPath("//*[@id=\\\\'account-profile-section\\\\']/div/section[2]/div/div/div/div[3]/form/div[2]/div/div[2]/div/table/tbody/tr/td/div/div[1]/input\\"));
-            return editedLanguage.Text;
-
-        }
+       
+       
 
                
 

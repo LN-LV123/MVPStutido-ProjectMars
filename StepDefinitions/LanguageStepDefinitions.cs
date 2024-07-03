@@ -45,7 +45,9 @@ namespace Mars_Luiz.StepDefinitions
         {
             LanguagePage profilePageObj = new LanguagePage();
             string addedLanguage = profilePageObj.GetLanguage(driver);
+            string choseLevel = profilePageObj.GetChooseLevel(driver);
             Assert.That(addedLanguage == "Portuguese", "Currently added language does not match");
+            Assert.That(choseLevel == "Native/Bilingual", "Chose Level does not match");
         }
 
         //Add more than four Languages
@@ -60,7 +62,10 @@ namespace Mars_Luiz.StepDefinitions
         [Then(@"Languanges shoould be added successfully but not more than four")]
         public void ThenLanguangesShoouldBeAddedSuccessfullyButNotMoreThanFour()
         {
-            throw new PendingStepException();
+            LanguagePage profilePageObj = new LanguagePage();
+            var addNewButton = driver.FindElements(By.XPath("//*[@id=\"account-profile-section\"]/div/section[2]/div/div/div/div[3]/form/div[2]/div/div[2]/div/table/thead/tr/th[3]/div"));
+            Assert.That(addNewButton != null, "Test Failed");
+
         }
 
 

@@ -6,12 +6,14 @@ using OpenQA.Selenium.DevTools.V123.Overlay;
 using OpenQA.Selenium.DevTools.V123.Runtime;
 using OpenQA.Selenium.Support.UI;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Collections.Specialized.BitVector32;
 
 namespace Mars_Luiz.Pages
 {
@@ -100,8 +102,14 @@ namespace Mars_Luiz.Pages
             IWebElement skillBox = driver.FindElement(By.XPath("//*[@id=\'account-profile-section\']/div/section[2]/div/div/div/div[3]/form/div[3]/div/div[2]/div/table/tbody/tr/td/div/div[1]/input"));
             skillBox.Clear();
             skillBox.SendKeys("Windows2019");
-            IWebElement choosedropdownBox = driver.FindElement(By.XPath("//*[@id=\'account-profile-section\']/div/section[2]/div/div/div/div[3]/form/div[3]/div/div[2]/div/table/tbody/tr/td/div/div[2]/select"));
+
+
+            IWebElement choosedropdownBox = driver.FindElement(By.CssSelector("#account-profile-section > div > section:nth-child(3) > div > div > div > div.eight.wide.column > form > div.ui.bottom.attached.tab.segment.tooltip-target.active > div > div.twelve.wide.column.scrollTable > div > table > tbody > tr > td > div > div:nth-child(2) > select"));
+            choosedropdownBox.Click();          
+            
             choosedropdownBox.SendKeys("Intermediate");
+
+
 
             IWebElement updateButton = driver.FindElement(By.XPath("//*[@id=\'account-profile-section\']/div/section[2]/div/div/div/div[3]/form/div[3]/div/div[2]/div/table/tbody/tr/td/div/span/input[1]"));
             updateButton.Click();
@@ -158,6 +166,14 @@ namespace Mars_Luiz.Pages
             IWebElement duplicateData = driver.FindElement(By.XPath("/html/body/div[1]/div"));
             return duplicateData.Text;
 
+        }
+
+        //String for Special long Characters
+        public string SpecialCharcSkills(IWebDriver driver)
+        {
+            Thread.Sleep(2000);
+            IWebElement specialcharcSkills = driver.FindElement(By.XPath("//*[@id=\'account-profile-section\']/div/section[2]/div/div/div/div[3]/form/div[3]/div/div[2]/div/table/tbody[2]/tr/td[1]"));
+            return specialcharcSkills.Text;
         }
 
 

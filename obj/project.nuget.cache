@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CATJOBCi14skjOY/8GahKKNlBAVJy8YifPpypBTLhrTXV7fuH0cpVg9U9q8zCZpPCtSHEDWO2SvaunCxlsx7Cg==",
+  "dgSpecHash": "N1P6Cb8ORC0nbc9ZxNiO7EhZSrD6Z8uFR7AVk1cWG4iKe2XFbc3Gzy/Vza0QR3wG3jxC2luGmsj8qkapovsBgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\Mars-Luiz.csproj",
+  "projectFilePath": "C:\\Users\\Nando\\source\\Tester2024\\Testerstudy2024\\Tester2024\\Mars-Luiz\\MVPStutido-ProjectMars\\Mars-Luiz.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nando\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\Nando\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
